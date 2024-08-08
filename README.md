@@ -1,2 +1,2 @@
 # aulalp1
-Aula 1 de LP testando conexão
+Aula 1 de LP testando conexão.
